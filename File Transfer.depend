@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1494980302 source:c:\users\shahadul alam\documents\codeblocks projects\file transfer\socket.c
+	"socket.h"
+
+1494980312 c:\users\shahadul alam\documents\codeblocks projects\file transfer\socket.h
+	<winsock2.h>
+	<ws2tcpip.h>
+
+1495040938 source:c:\users\shahadul alam\documents\codeblocks projects\file transfer\main.c
+	<pthread.h>
+	<stdio.h>
+	<string.h>
+	"socket.h"
+
